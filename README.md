@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jalieel
+- 👋 Hi, I’m @Evans 
 - 👀 I’m interested in ...computers
 - 🌱 I’m currently learning ...programming languages
 - 💞️ I’m looking to collaborate on ...
